@@ -14,7 +14,7 @@ setup(
     author='Sven Aßmann',
     author_email='sven.assmann@lubico.biz',
     url='https://github.com/sassman/django-twofactor',
-    download_url='https://github.com/gotlium/django-twofactor.git',
+    download_url='https://github.com/sassman/django-twofactor.git',
     packages=[
         'django_twofactor',
     ],
